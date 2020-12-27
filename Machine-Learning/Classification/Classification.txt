@@ -1,0 +1,153 @@
+
+REGRESSION 
+
+Airbnb Fair Valuation 
+
+Built a Regression model that estimates a fair value that the owner should be charging for an Airbnb room.
+ 
+I did this project by performing the Exploratory Data Analysis by Training and Testing the model using the algorithms, i.e., Linear Regression, Support Vector Regression, Decision Tree Regression, and Random Forest Regression. Among these, Random Forest Regression performed well by acquiring a generalized model using the Cross-Validation method, Grid Search, and Randomized Grid Search optimization approach. Using these approaches got around Training Accuracy of 87.14%.
+
+
+Project Date 
+
+2018 July
+
+
+
+CLASSIFICATION
+
+Targeting the donations for the Charity
+
+Built a classification model that predicts income levels based on a person's attributes, which are useful for approaching donations for charity
+ 
+I did this project by performing the Exploratory Data Analysis and Training and Testing the model using three algorithms, including Ada Boost Classifier, Support Vector Classifier, and Decision Tree Classifier. Among these, Ada Boost Classifier performed well by acquiring a generalized model using the Grid Search Optimization approach. Using this approach got around Training Accuracy of 83% 
+and Testing Accuracy of 86%
+
+
+Project Date 
+
+2018 September
+
+
+
+CLUSTERING
+
+Customer Segmentation on Booking Data in a Travel Agency 
+
+Built a Clustering model using Travel Agency Booking Data of Customer
+ 
+I did this project by performing the Exploratory Data Analysis and Training and Testing the model using the K-Means algorithm and performed well by acquiring optimized clusters of three using Elbow method and Silhouette Coefficient analysis.
+
+
+Project Date 
+
+2019 November
+
+
+
+Natural Language Processing
+
+
+I did this project by performing the Exploratory Data Analysis and Natural Language Processing (NLP) strategies are used to analyze Yelp reviews by acquiring sentiment analysis from the data using a Machine Learning Classification technique, namely Naive Bayes, which works on Bayes Theorem. Using this approach got around Training Accuracy of 90% and performed well on the test data. 
+
+Project Date
+
+2020 February
+
+
+
+
+EDA
+
+Product and Retail Data Analysis
+
+Company: The UK based and registered non-store online retail 
+Products for selling - Mainly all occasion gifts
+Customers - Most are wholesalers (local or international)
+Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year)
+
+I did this project by performing the Exploratory Data Analysis. Understood the insights from the data with NumPy & Pandas help and visualize all those insights using visualization tools like seaborn and matplotlib.
+Analyzed the customer purchasing pat terns and also the item trends for each seasonal period.
+
+
+
+
+Timeseries
+
+FORECASTING AVOCADO PRICES USING FACEBOOK PROPHET
+
+
+
+ 
+I did this project by acquiring the retail scan data directly from retailers and cash registers based on actual retail sales of avocados, thereby performing the Exploratory Data Analysis. Understood the insights from the data with NumPy & Pandas help and visualized all those insights and forecasts using Facebook prophet Time series for the next seasonality period, and performed precisely.
+
+
+Timeseries
+
+FORECASTING ROSSMANN SALES WITH PROPHET AND TIME SERIES ANALYSIS.
+
+I did this project by acquiring the retail scan data directly from retailers and cash registers based on actual retail sales of avocados, thereby performing the Exploratory Data Analysis. Understood the insights from the data with NumPy & Pandas help and visualized all those insights and forecasts using Facebook prophet Time series for the next seasonality period per each store type and their sales, and results are pretty accurate.
+
+
+
+
+
+
+POWERBI
+
+World Economic Outlook dataset Report
+
+I did this project by performing the Exploratory Data Analysis in Power Query Editor did a bit calculations on data using measures and DAX formulas. and the model the relationship in the data in model view and then understood the insights from the data by visualization of all those insights using visualization tools in report view and finally created dashboards the represents the World Economic Outlook of the population according to specific insights from the data
+
+
+
+Project Date 
+
+2020 February
+
+
+
+
+TABLEAU
+
+
+
+Population Data on Annual Co2 Emissions per Country
+
+I did this project by performing the Exploratory Data Analysis in Data Source and did a calculations on data using Joins and chaging data formats. and the model the relationship in the data and then understood the insights from the data by visualization of all those insights using visualization tools in worksheet and workbook view and finally created dashboards and stories that represents the region specific of Co2 emissions per country among total population and drawn specific insights from the data.
+
+
+
+Project Date 
+
+2020 February
+
+
+RECOMMENDATION SYSTEM FOR AN E-COMMERCE SITE 
+
+
+Built a Recommended model that recommends items to a Customer based on their behavior pattern.
+
+
+
+I did this project by performing the Exploratory Data Analysis and also built a customer-item matrix by creating out Collaborative Filter using cosine-similarity that creates User-to-User Similarity Matrix by finding Items to Recommend to a Customer using Item Based Collaborative Filtering.
+
+
+DEEP LEARNING
+
+RNN
+LSTM
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
