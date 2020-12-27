@@ -34,7 +34,16 @@
 - Experimented with different Machine Learning models and then K-Means algorithm performed well by acquiring optimized number of clusters using Elbow method and Silhouette Coefficient analysis.
 
 
-## Natural Language Processing
+# Natural Language Processing
+
+## Recurrent Neural Network
+
+### Google Stock Price Prediction using LSTM
+
+-Built a Data Pipeline that involves Preprocessing of Data, Embedding, Modeling, and Evaluation.
+
+-With the help of Keras as a Tensorflow backend, developed a generalized model on Google stock price data using LSTM and minimized the loss to 0.0014, almost close to zero.
+
 
 ### Sentiment-Analysis on Yelp Reviews
 
@@ -133,7 +142,7 @@
 
 ## Convolution Neural Network
 
-### VESSEL DETECTION IN SATELLITE IMAGES 
+### Vessel Detection in Satellite Images
  
 - Designed a Data Pipeline that does Data Preprocessing, Feature Selection, and Feature Engineering.
 
@@ -161,16 +170,6 @@
 
 - Experimented with these Networks and got accuracy of 87%.
 
-
-# Natural Language Processing
-
-## Recurrent Neural Network
-
-### Google Stock Price Prediction using LSTM
-
--Built a Data Pipeline that involves Preprocessing of Data, Embedding, Modeling, and Evaluation.
-
--With the help of Keras as a Tensorflow backend, developed a generalized model on Google stock price data using LSTM and minimized the loss to 0.0014, almost close to zero.
 
 
 
