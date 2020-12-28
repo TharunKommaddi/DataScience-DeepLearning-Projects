@@ -8,18 +8,18 @@
 
 - Designed a Data Pipeline that does Data Preprocessing, Feature Selection, and Feature Engineering.
  
-- Experimented with different Machine Learning models and got Accuracy of 87.14%.
+- Experimented with different Machine Learning models and got an accuracy of 87.14%.
 
 
 ## CLASSIFICATION
 
 ### Targeting the Donations for the Charity
 
-- Developed a model that predicts income levels based on a person's attributes, which are useful for approaching donations for charity.
+- Developed a model that predicts income levels based on a person's attributes, which are useful in approaching donations for charity.
 
 - Designed a Data Pipeline that does Data Preprocessing, Feature Selection, and Feature Engineering.
  
-- Experimented with different Machine Learning models and acquired a generalized model with Accuracy of 84% using the Grid Search Optimization approach.
+- Experimented with different Machine Learning models and acquired a generalized model with an accuracy of 84% using the Grid Search Optimization approach.
 
 
 ## CLUSTERING
@@ -31,7 +31,7 @@
 
 - Designed a Data Pipeline that does Data preprocessing, Feature Transformation and Dimensionality reduction.
 
-- Experimented with different Machine Learning models and then K-Means algorithm performed well by acquiring optimized number of clusters using Elbow method and Silhouette Coefficient analysis.
+- Experimented with different Machine Learning models, the K-Means algorithm performed well by acquiring optimized number of clusters using the Elbow method and Silhouette Coefficient analysis.
 
 
 # Natural Language Processing
@@ -62,7 +62,7 @@
 
 - Used NumPy & Pandas to get insights from the data and visualized all those insights using visualization tools like Pandas Plot, Matplotlib, and Seaborn.
 
-- Finally analyzed the customer purchasing patterns and also the item trends for each seasonal period.
+- Finally, I analyzed the customer purchasing patterns and also the item trends for each seasonal period.
 
 
 
@@ -85,22 +85,22 @@
 
 - Used NumPy & Pandas to get insights from the data and visualized all those insights using Visualization tools like Pandas Plot, Matplotlib, Seaborn.
 
-- Forecasts using Facebook prophet Time series for the next seasonality period per each store type and their sales, and got results that are pretty accurate.
+- Forecasts using Facebook prophet Time series for the next seasonality period per each store type and their sales, and got pretty accurate results.
 
 
 # DATA ANALYST
 
-## POWERBI
+## POWER BI
 
 ### World Economic Outlook Data Report
 
 - Designed a Data Pipeline by performing the Exploratory Data Analysis in Power Query Editor 
 
-- Performed calculations on data using Calculated Measures and DAX formulas.
+- Performed data calculations using Calculated Measures and DAX formulas.
 
-- Model the relationships in the data in model view and then getting insights from the data by visualization of all those insights using visualization tools in report view.
+- Model the data relationships in the model view and then get insights from the data by visualizing all those insights using visualization tools in the report view.
 
-- Finally created dashboards the represents the World Economic Outlook of the population according to specific insights from the data
+- Finally created dashboards represent the World Economic Outlook of the population according to specific data insights.
 
 
 ## TABLEAU
@@ -157,7 +157,7 @@
 
 - Built a Data Pipeline that involves Preprocessing of Data, Tokenization, Embedding, Modeling, and Evaluation.
 
-- Developed a model on a data which is extracted from Shakespeare's writing,that predicts the next character in a sequence of characters using LSTM with an accuracy of 91%.
+- Developed a model on data extracted from Shakespeare's writing that predicts the next character in a sequence of characters using LSTM with an accuracy of 91%.
 
 
 ## ADVNACED DEEP LEARNING
@@ -168,7 +168,7 @@
 
 - Developed a layered Deep Learning Pipeline to automate the process of detecting and localizing defects found in Steel manufacturing by performing classification & segmentation using Convolutional Neural Network, Resnet(Residual Network), Transfer Learning, Resunet.
 
-- Experimented with these Networks and got accuracy of 87%.
+- Experimented with these Networks and got an accuracy of 87%.
 
 
 
